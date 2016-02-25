@@ -1,4 +1,4 @@
 embedded-c
 ==========
 
-Code used for UTS subject Embedded C assignments
+Code used for embedded C assignments.
